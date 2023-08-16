@@ -1,8 +1,8 @@
 # JSX Lab
 
-## Learning Goals
+## Learning `Goals
 
-- Use JSX syntax to create DOM elements
+- Use JSX syntax to create DOM elements`
 
 ## Instructions
 
